@@ -2,7 +2,7 @@
 
 Piyasa haberlerini otomatik toplayan, **ProsusAI/FinBERT** derin öğrenme modeli ile finansal jargona özel duygu analizi gerçekleştiren ve sonuçları **Streamlit** ile **Plotly** üzerinden görselleştiren uçtan uca veri analitiği hattı.
 
-![Dashboard Görünümü](fin-sentiment-tracker/docs/dashboard_preview.png)
+![Dashboard Görünümü](fin-sentiment-tracker/docs/dashboard_preview.png.png)
 
 ---
 
